@@ -1,7 +1,7 @@
-id=MIUI10_theme
-name=MIUI10主题
+id=miui_full
+name=禁用系统升级、开启全面屏手势以及添加谷歌相机代码
 version=v1
 versionCode=1
 author=ourfor
-description=MIUI10主题，更多小米6调教敬请关注：ourfor.top 
+description=MIUI10养老，更多小米6调教敬请关注：ourfor.top 项目地址：https://github.com/ourfor/MI6_Optimization 
 minMagisk=1500

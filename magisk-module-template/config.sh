@@ -1,6 +1,6 @@
 ##########################################################################################
 #
-# 小米6 MIUI 10 个性化主题 magisk 模块  
+# 小米6 MIUI 10 个性化 magisk 模块  
 # made by ourfor
 # website: ourfor.top
 # 
@@ -43,8 +43,22 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************************"
-  ui_print "     MIUI 10 个性化主题 magisk 模块    "
-  ui_print "    anthor: ourfor  qq群： 863481960       "
+  ui_print "                                           "
+  ui_print "                        m""                "
+  ui_print "  mmm   m   m   m mm  mm#mm   mmm    m mm  "
+  ui_print " #" "#  #   #   #"  "   #    #" "#   #"  " "
+  ui_print " #   #  #   #   #       #    #   #   #     "
+  ui_print " "#m#"  "mm"#   #       #    "#m#"   #     "
+  ui_print "                                           "
+  ui_print "*******************************************"
+  ui_print "*******************************************"
+  ui_print "      小米6 MIUI 10 个性化 magisk 模块       "
+  ui_print "                                           "
+  ui_print "        MIUI 10 全面屏 magisk 模块           "
+  ui_print "     anthor: ourfor  qq群： 863481960       "
+  ui_print "                                           "
+  ui_print "             个性化调教 项目地址：             "
+  ui_print " https://github.com/ourfor/MI6_Optimization "
   ui_print "*******************************************"
 }
 
