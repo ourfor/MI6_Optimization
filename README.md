@@ -111,6 +111,6 @@ persist.camera.eis.enable=1
 
 GitHub下载太慢的话，可以前往服务器下载：  
 
-<details><summary>下载</summary>[地址](//ourfor.top)</details>
+<details><summary>下载</summary><a href="//file.ourfor.top">目录</a></details>
 
   
