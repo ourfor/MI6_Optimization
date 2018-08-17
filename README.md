@@ -51,6 +51,7 @@ Magisk是一款不修改系统文件但是能做到与修改系统相同效果�
 
 ### 关于谷歌服务
 - 方案 1：
+
 [MagicGApps](https://github.com/Magisk-Modules-Repo/MagicGApps)+ [Open GApps](https://github.com/opengapps/opengapps)
 
 - 方案 2(推荐)：
