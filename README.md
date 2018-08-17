@@ -52,7 +52,7 @@ Magisk是一款不修改系统文件但是能做到与修改系统相同效果�
 - [绿色守护](https://github.com/Magisk-Modules-Repo/Greenify4Magisk)(压制毒瘤)
 
 ### 关于谷歌服务
-- 方案 1：
+- 方案 1(不推荐，除非你想体验Pixel)：
 
 [MagicGApps](https://github.com/Magisk-Modules-Repo/MagicGApps) + [Open GApps](https://github.com/opengapps/opengapps)
 
