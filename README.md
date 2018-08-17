@@ -80,6 +80,14 @@ persist.camera.eis.enable=1
 
 ![](https://www.youtube.com/watch?v=y4oQiD3MoMM)
 
+- 系统级屏幕圆角
+在/system/etc/device_features/sagit.xml中添加：
+
+```
+<!--whether round corner--> 
+<bool name="support_round_corner">true</bool>
+```
+
 ## 软件生态
 > 仅有一个稳定省电的系统是远远不够的，只有配合优质的软件才可以达到最佳效果
 
