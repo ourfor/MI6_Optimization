@@ -55,6 +55,11 @@ Magisk是一款不修改系统文件但是能做到与修改系统相同效果�
 
 [MagicGApps](https://github.com/Magisk-Modules-Repo/MagicGApps)+ [Open GApps](https://github.com/opengapps/opengapps)
 
+##### 食用方法
+1. 前往[Opengapps](http://opengapps.org/)下载符合你当前系统的版本，下载完成后将其复制到内部存储
+2. magisk中安装模块MagicGApps
+
+
 - 方案 2(推荐)：
 
 使用[GoogleInstaller](//googleinstaller.org)
