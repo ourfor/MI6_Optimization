@@ -106,8 +106,11 @@ persist.camera.eis.enable=1
 
 </div>
 
+
 # 镜像目录
-GitHub下载太慢的话，可以前往服务器下载：
+
+GitHub下载太慢的话，可以前往服务器下载：  
+
 <summary>下载</summary><details>[地址](//https://ourfor.top)</details>
 
   
