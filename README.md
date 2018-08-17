@@ -101,6 +101,10 @@ persist.camera.eis.enable=1
 
 # 油管视频
 
-<div align=center>[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/y4oQiD3MoMM/0.jpg)](http://www.youtube.com/watch?v=y4oQiD3MoMM</div>
+<div align=center>
+<p>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/y4oQiD3MoMM/0.jpg)](http://www.youtube.com/watch?v=y4oQiD3MoMM
+<p>
+</div>
 
   
