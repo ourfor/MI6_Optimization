@@ -8,7 +8,7 @@ MI6调教指南
 --- 
 ![bg-perfor-small.jpg](https://i.loli.net/2018/08/15/5b7435e98718a.jpg)
 --- 
-<div align=center><a>https://i.loli.net/2018/08/15/5b7435e9266eb.jpg</a></div>
+<div align=center><a href=https://i.loli.net/2018/08/15/5b7435e9266eb.jpg</a></div>
 
 > 本指南将在官方MIUI的系统基础上对MI 6进行个性化，以达到稳定省电的目的。
 > 一个稳定的系统可以极大的提高学习的效率       ---- ***鲁迅***
