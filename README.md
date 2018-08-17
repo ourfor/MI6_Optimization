@@ -35,7 +35,8 @@ MI6调教指南
 So,不修改系统才能保证原来的稳定，所以这里使用Magisk模块(一部分自制，一部分来自酷友)：
 
 - 什么是` Magisk `：   
-Magisk是一款不修改系统文件但是能做到与修改系统相同效果的神器。  
+Magisk是一款不修改系统文件但是能做到与修改系统相同效果的神器。
+
 [Magisk项目地址](https://github.com/topjohnwu/Magisk)
 
 # 个性化Magisk模块
