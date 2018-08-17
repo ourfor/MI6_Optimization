@@ -69,7 +69,7 @@ Magisk是一款不修改系统文件但是能做到与修改系统相同效果�
 [MagicGApps](https://github.com/Magisk-Modules-Repo/MagicGApps) + [Open GApps](https://github.com/opengapps/opengapps)
 
 ##### 食用方法
-1. 前往[Opengapps](http://opengapps.org/)下载符合你当前系统的版本，下载完成后将其复制到内部存储，确保包名为` open_gapps-* zip `
+1. 前往[Opengapps](//opengapps.org/)下载符合你当前系统的版本，下载完成后将其复制到内部存储，确保包名为` open_gapps-* zip `
 2. 第三方Recovery中安装模块MagicGApps
 
 
@@ -127,7 +127,7 @@ persist.camera.eis.enable=1
 # 油管视频
 
    
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/y4oQiD3MoMM/0.jpg)](http://www.youtube.com/watch?v=y4oQiD3MoMM)
+[![IMAGE ALT TEXT HERE](//img.youtube.com/vi/y4oQiD3MoMM/0.jpg)](//www.youtube.com/watch?v=y4oQiD3MoMM)
 
 
 
