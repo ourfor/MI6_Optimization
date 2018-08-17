@@ -113,4 +113,15 @@ GitHub下载太慢的话，可以前往服务器下载(服务器对某些地区�
 
 <details><summary>下载</summary><a href="//file.ourfor.top">目录</a></details>
 
-  
+注意事项：
+1. 请确保您已经安装第三方Recovery，以及备份好基带
+2. 安装mm管理器，方便卸载Magisk模块
+--- 
+
+<details>
+   <summary>mm管理器用法</summary>
+   1.重启进入Recovery，打开 ***Terminal***
+   2.执行` cd /data/media `
+   3. 使用` ./mm `来使用mm管理器
+</details>  
+ 
