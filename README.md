@@ -8,13 +8,13 @@ MI6调教指南
 ~~~帮我压好鲁迅的棺材盖😳🤪~~~
 --- 
 ![bg-camera-small.jpg](https://i.loli.net/2018/08/15/5b7435e9a260b.jpg)
-<a align=center>宣传图片</a>
+<div align=center><a>宣传图片</a></div>
 --- 
 ![bg-top-small.jpg](https://i.loli.net/2018/08/15/5b7435e988976.jpg)
-<a align=center>梦幻般的四曲面</a>
+<div align=center><a>梦幻般的四曲面</a></div>
 --- 
 ![bg-perfor-small.jpg](https://i.loli.net/2018/08/15/5b7435e98718a.jpg)
-<a align=center>骁龙835</a>
+<div align=center><a>骁龙835</a></div>
 --- 
 <div align=center><img src="https://i.loli.net/2018/08/15/5b7435e9266eb.jpg"></div>
 
