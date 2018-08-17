@@ -57,7 +57,7 @@ Magisk是一款不修改系统文件但是能做到与修改系统相同效果�
 
 ##### 食用方法
 1. 前往[Opengapps](http://opengapps.org/)下载符合你当前系统的版本，下载完成后将其复制到内部存储，确保包名为` open_gapps-* zip `
-2. magisk中安装模块MagicGApps
+2. 第三方Recovery中安装模块MagicGApps
 
 
 - 方案 2(推荐)：
