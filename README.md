@@ -39,7 +39,16 @@ Magisk是一款不修改系统文件但是能做到与修改系统相同效果�
 [Magisk项目地址](https://github.com/topjohnwu/Magisk)
 
 # 个性化Magisk模块
+> 已制造模块以及推荐安装的模块（由于miui10稳定版系统要到9月份左右才出，下面仅以8.8.9开发版制造模块）
 - 时间居中模块 miui_center_clocker
 - MIUI主题（整合安卓7.0开机画面）
-- 全面屏手势（包含禁用系统升级，Google相机代码）
-- mm管理器（方便recovery下面卸载模块）
+- 全面屏手势（包含禁用系统升级、Google相机代码、dpi修改）
+- [mm管理器](https://github.com/Magisk-Modules-Repo/Magisk-Manager-for-Recovery-Mode)（方便recovery下面卸载模块）
+- 阿丽达黑字体（来自微信公众号：宁静之雨）  
+
+### 关于谷歌服务
+方案 1：
+方案 2
+
+
+
