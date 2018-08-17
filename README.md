@@ -78,7 +78,7 @@ persist.camera.eis.enable=1
 - dpi
 可以在` /system/build.prop `修改` ro.sf.lcd_density=480 `，也可以使用命令` wm density dpi_num `(root权限下，且只适用于骁龙处理器)
 
-{% youtube y4oQiD3MoMM %}
+![](https://www.youtube.com/watch?v=y4oQiD3MoMM)
 
 
 
