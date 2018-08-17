@@ -80,6 +80,24 @@ persist.camera.eis.enable=1
 
 ![](https://www.youtube.com/watch?v=y4oQiD3MoMM)
 
+## 软件生态
+> 仅有一个稳定省电的系统是远远不够的，只有配合优质的软件才可以达到最佳效果
+
+- Chrome
+- google相机
+- SSR
+- 多看阅读
+- Share
+- VLC
+- Termux
+- Tim
+- Gboard
+- Facebook
+- Youtube
+- Telegram
+- WPS Office
+- Instagram
+
 # 油管视频
 <div align=center>
 [![IMAGE ALT TEXT]](http://www.youtube.com/watch?v=y4oQiD3MoMM)
