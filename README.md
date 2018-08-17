@@ -84,7 +84,7 @@ persist.camera.eis.enable=1
 > 仅有一个稳定省电的系统是远远不够的，只有配合优质的软件才可以达到最佳效果
 
 - Chrome
-- google相机
+- [google相机](//www.celsoazevedo.com/files/android/google-camera/)
 - SSR
 - 多看阅读
 - Share
