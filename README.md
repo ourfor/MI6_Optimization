@@ -65,5 +65,20 @@ Magisk是一款不修改系统文件但是能做到与修改系统相同效果�
 
 使用[GoogleInstaller](//googleinstaller.org)
 
+## 部分实现
+- 启用 ***Google相机***api，这里需要修改/system/build.prop,我已制造相关模块保证系统稳定，这里只是说明实现，在` /system/build.prop `添加如下代码：
+
+```
+persist.camera.HAL3.enabled=1。
+persist.camera.eis.enable=1
+```
+- 开启全面屏手势
+` /system/build.prop `修改` qemu.hw.mainkeys=1 `为` qemu.hw.mainkeys=0 `
+
+- dpi
+可以在` /system/build.prop `修改` ro.sf.lcd_density=480 `，也可以使用命令` wm density dpi_num `(root权限下，且只适用于骁龙处理器)
+
+{% youtube y4oQiD3MoMM %}
+
 
 
