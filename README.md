@@ -80,5 +80,9 @@ persist.camera.eis.enable=1
 
 ![](https://www.youtube.com/watch?v=y4oQiD3MoMM)
 
+# 油管视频
+<div align=center>
+[![IMAGE ALT TEXT]](http://www.youtube.com/watch?v=y4oQiD3MoMM)
+</div>
 
-
+  
