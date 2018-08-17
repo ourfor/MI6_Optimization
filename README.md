@@ -18,11 +18,16 @@ MI6调教指南
 ![bg-perfor-small.jpg](https://i.loli.net/2018/08/15/5b7435e98718a.jpg)
 <div align=center><a>骁龙835</a></div>    
 
---- 
-<a>
-<div align=left><img src="https://i.loli.net/2018/08/15/5b7435e9266eb.jpg"></div>
-<div align=right><img src="https://i.loli.net/2018/08/15/5b7435e9266eb.jpg"></div>
-</a>
+<table>
+<tr>
+   <td><img src="https://i.loli.net/2018/08/15/5b7435e9266eb.jpg"></td>
+   <td><img src="https://i.loli.net/2018/08/15/5b7435e9266eb.jpg"></td>
+</tr>
+<tr>
+   <td><img src="https://i.loli.net/2018/08/15/5b7435e9266eb.jpg"></td>
+   <td><img src="https://i.loli.net/2018/08/15/5b7435e9266eb.jpg"></td>
+</tr>
+</table>
 
 > 本指南将在官方MIUI的系统基础上对MI 6进行个性化，以达到稳定省电的目的。
 
