@@ -69,7 +69,7 @@ Magisk是一款不修改系统文件但是能做到与修改系统相同效果�
 - 启用 ***Google相机*** api，这里需要修改/system/build.prop,我已制造相关模块保证系统稳定，这里只是说明实现，在` /system/build.prop `添加如下代码：
 
 ```
-persist.camera.HAL3.enabled=1。
+persist.camera.HAL3.enabled=1
 persist.camera.eis.enable=1
 ```
 - 开启全面屏手势
