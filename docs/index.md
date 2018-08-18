@@ -69,13 +69,13 @@ Magisk是一款不修改系统文件但是能做到与修改系统相同效果�
 [MagicGApps](https://github.com/Magisk-Modules-Repo/MagicGApps) + [Open GApps](https://github.com/opengapps/opengapps)
 
 ##### 食用方法
-1. 前往[Opengapps](//opengapps.org/)下载符合你当前系统的版本，下载完成后将其复制到内部存储，确保包名为` open_gapps-* zip `
+1. 前往[Opengapps](https://opengapps.org/)下载符合你当前系统的版本，下载完成后将其复制到内部存储，确保包名为` open_gapps-* zip `
 2. 第三方Recovery中安装模块MagicGApps
 
 
 - 方案 2(推荐)：
 
-使用[GoogleInstaller](//googleinstaller.org)
+使用[GoogleInstaller](https://googleinstaller.org)
 
 ## 部分实现
 - 启用 ***Google相机*** api，这里需要修改/system/build.prop,我已制造相关模块保证系统稳定，这里只是说明实现，在` /system/build.prop `添加如下代码：
@@ -104,7 +104,7 @@ persist.camera.eis.enable=1
 > 仅有一个稳定省电的系统是远远不够的，只有配合优质的软件才可以达到最佳效果(可以配合黑域和绿色守护压制部分毒瘤)
 
 - Chrome
-- [google相机](//www.celsoazevedo.com/files/android/google-camera/)
+- [google相机](https://www.celsoazevedo.com/files/android/google-camera/)
 - SSR
 - 多看阅读
 - Share
@@ -127,7 +127,7 @@ persist.camera.eis.enable=1
 # 油管视频
 
    
-[![IMAGE ALT TEXT HERE](//img.youtube.com/vi/y4oQiD3MoMM/0.jpg)](//www.youtube.com/watch?v=y4oQiD3MoMM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y4oQiD3MoMM/0.jpg)](https://www.youtube.com/watch?v=y4oQiD3MoMM)
 
 
 
@@ -136,7 +136,7 @@ persist.camera.eis.enable=1
 
 GitHub下载太慢的话，可以前往服务器下载(服务器对某些地区电信网络不太友好)：  
 
-<details><summary>下载</summary><a href="//file.ourfor.top">目录</a></details>
+<details><summary>下载</summary><a href="https://file.ourfor.top">目录</a></details>
 
 注意事项：
 1. 请确保您已经安装第三方Recovery，以及备份好基带
