@@ -153,4 +153,13 @@ GitHub下载太慢的话，可以前往服务器下载(服务器对某些地区�
    3.使用` ./mm `来使用mm管理器
    
 </details>  
+
+<table>
+  <tr>
+    <td>![](desktop.png)</td>
+    <td>![](qq_add.png)</td>
+    <td>![](wechat_add.png)</td>
+  </tr>
+</table>
+    
  
