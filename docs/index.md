@@ -154,11 +154,12 @@ GitHub下载太慢的话，可以前往服务器下载(服务器对某些地区�
    
 </details>  
 
+
 <table>
   <tr>
-    <td>![](desktop.png)</td>
-    <td>![](qq_add.png)</td>
-    <td>![](wechat_add.png)</td>
+    <td><img src=desktop.png></td>
+    <td><img src=qq_add.png></td>
+    <td><img src=wechat.png></td>
   </tr>
 </table>
     
