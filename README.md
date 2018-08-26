@@ -144,3 +144,11 @@ GitHub下载太慢的话，可以前往服务器下载(服务器对某些地区�
    
 </details>  
  
+ <table>
+  <tr>
+    <td><img src=docs/desktop.png></td>
+    <td><img src=docs/qq_add.png></td>
+    <td><img src=docs/wechat_add.png></td>
+  </tr>
+</table>
+ 
