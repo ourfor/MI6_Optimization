@@ -94,7 +94,7 @@ persist.camera.eis.enable=1
 > 仅有一个稳定省电的系统是远远不够的，只有配合优质的软件才可以达到最佳效果(可以配合黑域和绿色守护压制部分毒瘤)
 
 - Chrome
-- [google相机](//www.celsoazevedo.com/files/android/google-camera/)
+- [google相机](https://www.celsoazevedo.com/files/android/google-camera/f/MGC_5.2.022_1.0.apk)
 - SSR
 - 多看阅读
 - Share
