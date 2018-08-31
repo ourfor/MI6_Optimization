@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+blockquote {
+    padding: 0 0 0 3px;
+    margin-bottom: 2px;
+    font-size: 15px;
+    border-left: 1px solid #c12626;
+}
+
+blockquote {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 8px;
+    margin-inline-end: 8px;
+}
