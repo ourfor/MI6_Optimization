@@ -157,12 +157,13 @@ GitHub下载太慢的话，可以前往服务器下载(服务器对某些地区�
 ---
 --- 
 
+# Contact
 
 <table>
   <tr>
-    <td><img src=desktop.png></td>
-    <td><img src=qq_add.png></td>
-    <td><img src=wechat_add.png></td>
+    <td><img src="./desktop.png"></td>
+    <td><img src="./qq_add.png"></td>
+    <td><img src="./wechat_add.png"></td>
   </tr>
 </table>
     
