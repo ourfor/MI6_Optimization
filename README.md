@@ -41,7 +41,7 @@ Magisk是一款不修改系统文件但是能做到与修改系统相同效果�
 [Magisk项目地址](https://github.com/topjohnwu/Magisk)
 
 # 个性化Magisk模块
-> 已制做模块以及推荐安装的模块（由于miui10稳定版系统要到9月份左右才出，下面仅以8.8.9开发版制造模块）
+> 已制做模块以及推荐安装的模块（下面MIUI 10稳定版（V10.0.1.0.OCACNFH）制造模块）
 - 时间居中模块(miui_center_clocker)
 - 系统级屏幕圆角
 - MIUI主题（整合安卓7.0开机画面）
