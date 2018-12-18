@@ -152,3 +152,11 @@ GitHub下载太慢的话，可以前往服务器下载(服务器对某些地区�
   </tr>
 </table>
  
+# 步骤
+
+- 下载官方线刷包
+- 解锁手机bl锁
+- 下载twrp官方Recovery
+- 线刷稳定系统
+- 刷入第三方Recovery,即上面的TWRP
+- 刷入Magisk模块,自定义Magisk模块
