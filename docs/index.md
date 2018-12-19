@@ -168,9 +168,9 @@ GitHub下载太慢的话，可以前往服务器下载(服务器对某些地区�
    
    1.重启进入Recovery，打开  ***Terminal***   
    
-   2.执行` cd /data/media `
+   2.执行 ` cd /data/media `
    
-   3.使用` ./mm `来使用mm管理器
+   3.使用 ` ./mm ` 来使用mm管理器
    
 </details>  
 
@@ -202,5 +202,7 @@ GitHub下载太慢的话，可以前往服务器下载(服务器对某些地区�
 > 2018年12月19日
 
 - 调整数据流量箭头与4G+之间的距离，不会再与加号重叠
-- 调整状态栏[时间]字体大小，更加醒目
+- 调整状态栏[时间](#javascript)字体大小，更加醒目
 - 通知栏时间分块，安装[安卓O 音乐样式](https://www.coolapk.com/apk/soptqs.medianotification)
+- 更换图标包[Sorcery](#javascript)
+- 反编译SystemUI，去掉[不重要通知](#javascript)
