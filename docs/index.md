@@ -1,7 +1,7 @@
 # MI6_Optimization
 MI6调教指南
 
- ## 效果预览
+## 效果预览
 
 <table>
   <tr>
