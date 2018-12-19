@@ -1,6 +1,26 @@
 # MI6_Optimization
 MI6调教指南
 
+# 效果预览
+
+<table>
+  <tr>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf47d2919.png"><img src="https://i.loli.net/2018/12/19/5c19cf47d2919.png"></a></td>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf47d2fb1.png"><img src="https://i.loli.net/2018/12/19/5c19cf47d2fb1.png"></a></td>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4867dfa.png"><img src="https://i.loli.net/2018/12/19/5c19cf4867dfa.png"></a></td>
+  </tr>
+  <tr>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4867fa1.png"><img src="https://i.loli.net/2018/12/19/5c19cf4867fa1.png"></a></td>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4872ff5.png"><img src="https://i.loli.net/2018/12/19/5c19cf4872ff5.png"></a></td>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48ad8bc.png"><img src="https://i.loli.net/2018/12/19/5c19cf48ad8bc.png"></a></td>
+  </tr>
+  <tr>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48d62a8.png"><img src="https://i.loli.net/2018/12/19/5c19cf48d62a8.png"></a></td>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48d7e73.png"><img src="https://i.loli.net/2018/12/19/5c19cf48d7e73.png"></a></td>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48ec168.png"><img src="https://i.loli.net/2018/12/19/5c19cf48ec168.png"></a></td>
+  </tr>
+ </table>
+
 # 前言
 不少同学觉得官方miui自定义不够强，纷纷刷官改和类原生。当然不少人喜欢原生系统，它纯净省电、可玩性极强，同时资源丰富，诸如` Xposed `等神器支持良好。不过，缺点也很明显，像 ***NFC*** 这些功能基本残废。bug还是有一些的，不影响日用。由于我对云服务很强依赖，需要一个稳定省电的系统。所以本指南将以最新官方稳定系统为基础进行调教。除了安装第三方recovery以外，不会改动系统分区，从而最大程度保证系统的稳定和省电
 
@@ -168,22 +188,4 @@ GitHub下载太慢的话，可以前往服务器下载(服务器对某些地区�
 </table>
    
    
-# 效果预览
 
-<table>
-  <tr>
-<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf47d2919.png"><img src="https://i.loli.net/2018/12/19/5c19cf47d2919.png"></a></td>
-<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf47d2fb1.png"><img src="https://i.loli.net/2018/12/19/5c19cf47d2fb1.png"></a></td>
-<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4867dfa.png"><img src="https://i.loli.net/2018/12/19/5c19cf4867dfa.png"></a></td>
-  </tr>
-  <tr>
-<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4867fa1.png"><img src="https://i.loli.net/2018/12/19/5c19cf4867fa1.png"></a></td>
-<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4872ff5.png"><img src="https://i.loli.net/2018/12/19/5c19cf4872ff5.png"></a></td>
-<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48ad8bc.png"><img src="https://i.loli.net/2018/12/19/5c19cf48ad8bc.png"></a></td>
-  </tr>
-  <tr>
-<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48d62a8.png"><img src="https://i.loli.net/2018/12/19/5c19cf48d62a8.png"></a></td>
-<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48d7e73.png"><img src="https://i.loli.net/2018/12/19/5c19cf48d7e73.png"></a></td>
-<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48ec168.png"><img src="https://i.loli.net/2018/12/19/5c19cf48ec168.png"></a></td>
-  </tr>
- </table>
