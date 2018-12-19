@@ -188,4 +188,19 @@ GitHub下载太慢的话，可以前往服务器下载(服务器对某些地区�
 </table>
    
    
+# 步骤
 
+- 下载官方线刷包
+- 解锁手机bl锁
+- 下载twrp官方Recovery
+- 线刷稳定系统
+- 刷入第三方Recovery,即上面的TWRP
+- 刷入Magisk模块,自定义Magisk模块
+
+# 更新日志
+
+> 2018年12月19日
+
+- 调整数据流量箭头与4G+之间的距离，不会再与加号重叠
+- 调整状态栏[时间]字体大小，更加醒目
+- 通知栏时间分块，安装[安卓O 音乐样式](https://www.coolapk.com/apk/soptqs.medianotification)
