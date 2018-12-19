@@ -166,11 +166,9 @@ GitHub下载太慢的话，可以前往服务器下载(服务器对某些地区�
 <details>
    <summary>mm管理器用法</summary>
    
-   1.重启进入Recovery，打开  ***Terminal***   
-   
-   2.执行 ` cd /data/media `
-   
-   3.使用 ` ./mm ` 来使用mm管理器
+   1.重启进入Recovery，打开  ***Terminal***   <br>
+   2.执行 <U> cd /data/media </U> <br>  
+   3.使用 <U> ./mm </U> 来使用mm管理器
    
 </details>  
 
