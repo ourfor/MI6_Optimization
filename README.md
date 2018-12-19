@@ -7,7 +7,7 @@ MI6调教指南
   <tr>
 <td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf47d2919.png"><img src="https://i.loli.net/2018/12/19/5c19cf47d2919.png"></a></td>  
 <td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf47d2fb1.png"><img src="https://i.loli.net/2018/12/19/5c19cf47d2fb1.png"></a></td>
-<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4867dfa.png"><img src="https://i.loli.net/2018/12/19/5c19cf4867dfa.png"></a></td>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c1a06eb0bb6f.png"><img src="https://i.loli.net/2018/12/19/5c1a06eb0bb6f.png"></a></td>
   </tr>
   <tr>
 <td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4867fa1.png"><img src="https://i.loli.net/2018/12/19/5c19cf4867fa1.png"></a></td>
