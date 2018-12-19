@@ -170,13 +170,20 @@ GitHub下载太慢的话，可以前往服务器下载(服务器对某些地区�
    
 # 效果预览
 
-<a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf47d2919.png"><img src="https://i.loli.net/2018/12/19/5c19cf47d2919.png"></a>
-<a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf47d2fb1.png"><img src="https://i.loli.net/2018/12/19/5c19cf47d2fb1.png"></a>
-<a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4867dfa.png"><img src="https://i.loli.net/2018/12/19/5c19cf4867dfa.png"></a>
-<a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4867fa1.png"><img src="https://i.loli.net/2018/12/19/5c19cf4867fa1.png"></a>
-<a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4872ff5.png"><img src="https://i.loli.net/2018/12/19/5c19cf4872ff5.png"></a>
-<a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48ad8bc.png"><img src="https://i.loli.net/2018/12/19/5c19cf48ad8bc.png"></a>
-<a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48d62a8.png"><img src="https://i.loli.net/2018/12/19/5c19cf48d62a8.png"></a>
-<a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48d7e73.png"><img src="https://i.loli.net/2018/12/19/5c19cf48d7e73.png"></a>
-<a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48ec168.png"><img src="https://i.loli.net/2018/12/19/5c19cf48ec168.png"></a>
- 
+<table>
+  <tr>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf47d2919.png"><img src="https://i.loli.net/2018/12/19/5c19cf47d2919.png"></a></td>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf47d2fb1.png"><img src="https://i.loli.net/2018/12/19/5c19cf47d2fb1.png"></a></td>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4867dfa.png"><img src="https://i.loli.net/2018/12/19/5c19cf4867dfa.png"></a></td>
+  </tr>
+  <tr>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4867fa1.png"><img src="https://i.loli.net/2018/12/19/5c19cf4867fa1.png"></a></td>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4872ff5.png"><img src="https://i.loli.net/2018/12/19/5c19cf4872ff5.png"></a></td>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48ad8bc.png"><img src="https://i.loli.net/2018/12/19/5c19cf48ad8bc.png"></a></td>
+  </tr>
+  <tr>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48d62a8.png"><img src="https://i.loli.net/2018/12/19/5c19cf48d62a8.png"></a></td>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48d7e73.png"><img src="https://i.loli.net/2018/12/19/5c19cf48d7e73.png"></a></td>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf48ec168.png"><img src="https://i.loli.net/2018/12/19/5c19cf48ec168.png"></a></td>
+  </tr>
+ </table>
