@@ -11,7 +11,7 @@ MI6调教指南
   </tr>
   <tr>
 <td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4867fa1.png"><img src="https://i.loli.net/2018/12/19/5c19cf4867fa1.png"></a></td>
-<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c1a06eb0bb6f.png"><img src="https://i.loli.net/2018/12/19/5c1a06eb0bb6f.png"></a></td>
+<td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/21/5c1ce27e27e27.png"><img src="https://i.loli.net/2018/12/21/5c1ce27e27e27.png"></a></td>
 <td><a data-fancybox="gallery" href="https://i.loli.net/2018/12/19/5c19cf4872ff5.png"><img src="https://i.loli.net/2018/12/19/5c19cf4872ff5.png"></a></td>
   </tr>
   <tr>
@@ -166,9 +166,9 @@ GitHub下载太慢的话，可以前往服务器下载(服务器对某些地区�
  
  <table>
   <tr>
-    <td><img src=docs/desktop.png></td>
-    <td><img src=docs/qq_add.png></td>
-    <td><img src=docs/wechat_add.png></td>
+    <td><img src="https://i.loli.net/2018/12/19/5c1a46250813c.png"></td>
+    <td><img src="https://i.loli.net/2018/12/19/5c1a46c450447.png"></td>
+    <td><img src="https://i.loli.net/2018/12/19/5c1a46dcd793f.png"></td>
   </tr>
 </table>
  
@@ -190,6 +190,8 @@ GitHub下载太慢的话，可以前往服务器下载(服务器对某些地区�
 - 通知栏时间分块，安装[安卓O 音乐样式](https://www.coolapk.com/apk/soptqs.medianotification)
 - 更换图标包[Sorcery](#javascript)
 - 反编译SystemUI，去掉[不重要通知](#javascript)
+- 更改门禁卡默认图片(刷入门禁卡模块)
+- 更改通知栏高度，添加自定义文字，更换系统设置界面与下拉通知栏开关图标
 
 > 2018年8月15日
 
