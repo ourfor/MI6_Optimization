@@ -32,7 +32,7 @@ blockquote {
 	  font-style: normal;
 }
 
-* {
+:not(header.inner) {
     font-family:NotoSan, 'Helvetica Neue', Helvetica, Arial, serif;;
 }
 
