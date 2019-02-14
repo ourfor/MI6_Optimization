@@ -35,3 +35,7 @@ blockquote {
 * {
     font-family:NotoSan, 'Helvetica Neue', Helvetica, Arial, serif;;
 }
+
+@media screen and {max-width:760mm} {
+	#sidebar.button+p {visibility:hidden;}
+}
