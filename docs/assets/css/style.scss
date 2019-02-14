@@ -32,10 +32,7 @@ blockquote {
 	  font-style: normal;
 }
 
-*:not(header.inner) {
+* {
     font-family:NotoSan, 'Helvetica Neue', Helvetica, Arial, serif;;
 }
 
-@media screen and (max-width:760px) {
-	#sidebar.button+p {visibility:hidden;}
-}
