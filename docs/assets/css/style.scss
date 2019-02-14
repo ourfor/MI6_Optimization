@@ -18,3 +18,20 @@ blockquote {
     margin-inline-end: 2px;
     margin: 1px 1px 1px 1px;
 }
+
+@font-face {
+    font-family:NotoSan;
+    src:url("font/NotoSansSC-Regular.eot");
+	src:
+	      url('./font/NotoSansSC-Regular.eot?#font-spider') format('embedded-opentype'),
+	      url('./font/NotoSansSC-Regular.woff2') format('woff2'),
+	      url('./font/NotoSansSC-Regular.woff') format('woff'),
+	      url('./font/NotoSansSC-Regular.ttf') format('truetype'),
+	      url('./font/NotoSansSC-Regular.svg') format('svg');
+	  font-weight: normal;
+	  font-style: normal;
+}
+
+* {
+    font-family:NotoSan, 'Helvetica Neue', Helvetica, Arial, serif;;
+}
